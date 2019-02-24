@@ -1,2 +1,8 @@
 #!/bin/bash
   echo "helsjfdlajfldasjflo"
+
+
+while :
+do 
+	echo "3"
+done
