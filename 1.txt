@@ -1,8 +1,12 @@
 #!/bin/bash
   echo "helsjfdlajfldasjflo"
 
+<<<<<<< Updated upstream
 
 while :
 do 
 	echo "3"
 done
+=======
+echo "nihao "
+>>>>>>> Stashed changes
